@@ -9,6 +9,6 @@ Link colab por si hay algun incoveniente con los archivos del repo.
 
 Actividad Banco: 
 
-Actividad S.O: https://colab.research.google.com/drive/1pjoYesPTfPyLViEyB9EPDdoiQGbbZ5yQ?usp=sharing
+Actividad S.O: 
 
 
